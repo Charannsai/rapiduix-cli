@@ -1,0 +1,13 @@
+{
+    "name": "rapiduix",
+    "version": "1.0.5",
+    "description": "CLI for installing RapidUIX components",
+    "bin": {
+        "rapiduix": "./bin/rapiduix.js"
+    },
+    "author": "Charan Sai",
+    "license": "MIT",
+    "dependencies": {
+        "follow-redirects": "^1.15.9"
+    }
+}
