@@ -1,6 +1,6 @@
 {
     "name": "rapiduix",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "CLI for installing RapidUIX components",
     "bin": {
         "rapiduix": "./bin/rapiduix.js"
